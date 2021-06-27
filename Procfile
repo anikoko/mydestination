@@ -1,2 +1,2 @@
-web: gunicorn myclub.wsgi
+web:gunicorn myclub.wsgi
 web:node index.js
